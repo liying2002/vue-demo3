@@ -8,7 +8,7 @@ import Components from 'unplugin-vue-components/vite'
 import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/vue-demo/",
+  base: "/vue-demo1/",
   plugins: [
     vue(), 
     vueJsx(),
